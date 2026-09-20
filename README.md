@@ -2,6 +2,18 @@
 
 
 
+![img](https://raw.githubusercontent.com/yjvaselines/NextUI-CN/refs/heads/main/screenshot/20260920120138_5_38.jpg)
+
+![img](https://raw.githubusercontent.com/yjvaselines/NextUI-CN/refs/heads/main/screenshot/20260920120139_6_38.jpg)
+
+![img](https://raw.githubusercontent.com/yjvaselines/NextUI-CN/refs/heads/main/screenshot/20260920120140_7_38.jpg)
+
+![img](https://raw.githubusercontent.com/yjvaselines/NextUI-CN/refs/heads/main/screenshot/20260920120140_8_38.jpg)
+
+![img](https://raw.githubusercontent.com/yjvaselines/NextUI-CN/refs/heads/main/screenshot/20260920120142_9_38.jpg)
+
+![img](https://raw.githubusercontent.com/yjvaselines/NextUI-CN/refs/heads/main/screenshot/20260920120143_10_38.jpg)
+
 机型：只支持Trimiui brick pro
 
 功能点：
